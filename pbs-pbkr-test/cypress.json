@@ -1,0 +1,12 @@
+{
+  "baseUrl": "http://pmgr.integec.com/",
+  "viewportWidth": 1920,
+  "viewportHeight": 1080,
+  "defaultCommandTimeout": 10000,
+  "env": {
+    "adminUser": "admin",
+    "adminPassword": "Test123",
+    "testEnv": "integ"
+  },
+  "projectId": "yd6h85"
+}
